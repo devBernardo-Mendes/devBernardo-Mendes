@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
 
-## Languages
+## Languages 🧪
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBernardo-Mendes&layout=compact&langs_count=7&theme=dark"/>
 
 ## Interactions
