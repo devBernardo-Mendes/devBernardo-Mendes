@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/bernardo-mendes-3269a11a8/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" margin-top="10" width="40" height="40" style="max-width:100%;"/>
 </a>
+
 ### Technologies 💻 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Css" width="40" height="40" style="max-width:100%;"></img>
