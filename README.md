@@ -1,6 +1,8 @@
 ### Hi there!!! 😊
 
+##
 @MemoGroup 🚀
+##
 
 #### Undergraduate student in Information Systems, attending college COTEMIG. I am enthusiastic about technology, thirsty for new knowledge and challenges, aiming to solve problems. My current focus is to become an excellent Frontend developer, always connected to the market and the news it brings, seeking to acquire knowledge and evolve.
 ## Connect with me:
