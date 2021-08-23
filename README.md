@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/bernardo-mendes-3269a11a8/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" margin-top="10" width="40" height="40" style="max-width:100%;"/>
 </a>
-##
+
 ### Technologies 💻 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Css" width="40" height="40" style="max-width:100%;"></img>
@@ -17,7 +17,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
-##
 
 ## Languages 🧪
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBernardo-Mendes&layout=compact&langs_count=7&theme=dark"/>
