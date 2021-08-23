@@ -1,6 +1,4 @@
 ### Hi there!!! 😊
-
-##
 @MemoGroup 🚀
 ##
 
