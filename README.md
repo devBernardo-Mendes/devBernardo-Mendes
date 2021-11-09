@@ -19,7 +19,7 @@
 
 ## Languages 🧪
 <div>
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com/?user=devBernardo-Mendes&theme=dark&fire=40C9B6&ring=40C9B6&currStreakLabel=0400FF)](https://git.io/streak-stats%22/%3E")](https://git.io/streak-stats" color="0400FF"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBernardo-Mendes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=devBernardo-Mendes&theme=dark&fire=40C9B6&ring=40C9B6&currStreakLabel=0400FF)](https://git.io/streak-stats%22/%3E")](https://git.io/streak-stats" color="0400FF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBernardo-Mendes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
