@@ -7,7 +7,7 @@
 
 Hi, I'm a software developer. At the moment, I'm focused on becoming a complete Frontend Developer, mastering both the Web and Mobile worlds. I'm always aware of the market and what's new in it, without limiting myself to just one side of the market. My goal is to follow good programming practices and I'm constantly looking to evolve and learn.
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devBernardo-Mendes\&theme=dark&layout=compact&langs_count=6)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devBernardoMendes\&theme=dark&layout=compact&langs_count=6)
 
 ## Skills
 <p align="left">
